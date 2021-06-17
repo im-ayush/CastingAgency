@@ -42,3 +42,14 @@ Auth0 have been used for the authentication.
 The `./frontend` directory contains a complete React.js frontend to consume the data from the Flask server.
 
 [View the README.md within ./frontend for more details.](./frontend/README.md)
+
+
+## Live
+
+## Backend
+To use the API only visit:
+https://ayush-casting-agency.herokuapp.com/
+
+## Frontend
+To use the APP visit:
+https://ayush-casting-agency-frontend.herokuapp.com/
